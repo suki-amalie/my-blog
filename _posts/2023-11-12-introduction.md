@@ -17,6 +17,8 @@ The last 3 months was grueling, I learned a lot of fundamentals low level concep
 
 I was exposed to a lot of possible learning path. In the applied math session for continuous mathematics, I met the associate professor **Simon Teshuva** - a very enthusiastic and unhinged human being when teaching about matrices, interpolation and function approximation using Taylor series. 
 
-He usually came to class with his jupyter notebook in VS code, showing us his models for some of the functions covered in class. He also went above and beyond class topics like finding the identity matrix of a non-uniform matrix, the sigmoid function used in logistic expression, the confidence interval, partial derivative functions descripting the rate of change of a chair in 3D space (our classroom). 
+He usually came to class with his jupyter notebook in VS code, showing us his models for some of the functions covered in class. He also went above and beyond class topics like finding the identity matrix of a non-uniform matrix, the sigmoid function used in logistic expression, the confidence interval, partial derivative functions descripting the rate of change of the motion of a chair in 3D space (our classroom). 
 
-I thoroughly enjoyed his applied class and this is the only class that I never missed. Next year, I'm going to take the computational modeling unit taught by professor Simon Teshuva and see where this will take me!
+I thoroughly enjoyed his applied class and this is the only class that I never missed. I love to be gaslighted with hard puzzling complex subjects because once I built a way to understand them even surfacely, I felt imense gratitude and satisfaction (also felt 1 IQ smarter).
+
+Next year, I'm going to take computational modelling and simulation. It's a 3rd year unit but I'm excited to be challenged. Moreover, it's taught by an exotic human being.
