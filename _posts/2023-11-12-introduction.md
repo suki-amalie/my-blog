@@ -2,7 +2,6 @@
 layout: post
 title:  "Introduction"
 date:   2023-11-12 15:01:12 +0700
-categories: jekyll update
 ---
 
 ### Hi, I'm Jash!
